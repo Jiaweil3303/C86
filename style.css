@@ -1,0 +1,13 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-style: solid;
+   background: radial-gradient(red, #ffffff, green);
+
+}
+
